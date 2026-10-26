@@ -1,0 +1,302 @@
+[
+  {
+    "ville": "Paris",
+    "departement": "Paris",
+    "codeDepartement": "75",
+    "prefecture": "Paris",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Marseille",
+    "departement": "Bouches-du-Rhône",
+    "codeDepartement": "13",
+    "prefecture": "Marseille",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Lyon",
+    "departement": "Rhône",
+    "codeDepartement": "69",
+    "prefecture": "Lyon",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Toulouse",
+    "departement": "Haute-Garonne",
+    "codeDepartement": "31",
+    "prefecture": "Toulouse",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Nice",
+    "departement": "Alpes-Maritimes",
+    "codeDepartement": "06",
+    "prefecture": "Nice",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Nantes",
+    "departement": "Loire-Atlantique",
+    "codeDepartement": "44",
+    "prefecture": "Nantes",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Montpellier",
+    "departement": "Hérault",
+    "codeDepartement": "34",
+    "prefecture": "Montpellier",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Strasbourg",
+    "departement": "Bas-Rhin",
+    "codeDepartement": "67",
+    "prefecture": "Strasbourg",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Bordeaux",
+    "departement": "Gironde",
+    "codeDepartement": "33",
+    "prefecture": "Bordeaux",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Lille",
+    "departement": "Nord",
+    "codeDepartement": "59",
+    "prefecture": "Lille",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Rennes",
+    "departement": "Ille-et-Vilaine",
+    "codeDepartement": "35",
+    "prefecture": "Rennes",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Toulon",
+    "departement": "Var",
+    "codeDepartement": "83",
+    "prefecture": "Toulon",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Reims",
+    "departement": "Marne",
+    "codeDepartement": "51",
+    "prefecture": "Châlons-en-Champagne",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Saint-Étienne",
+    "departement": "Loire",
+    "codeDepartement": "42",
+    "prefecture": "Saint-Étienne",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Le Havre",
+    "departement": "Seine-Maritime",
+    "codeDepartement": "76",
+    "prefecture": "Rouen",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Villeurbanne",
+    "departement": "Rhône",
+    "codeDepartement": "69",
+    "prefecture": "Lyon",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Dijon",
+    "departement": "Côte-d’Or",
+    "codeDepartement": "21",
+    "prefecture": "Dijon",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Angers",
+    "departement": "Maine-et-Loire",
+    "codeDepartement": "49",
+    "prefecture": "Angers",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Grenoble",
+    "departement": "Isère",
+    "codeDepartement": "38",
+    "prefecture": "Grenoble",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Nîmes",
+    "departement": "Gard",
+    "codeDepartement": "30",
+    "prefecture": "Nîmes",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Aix-en-Provence",
+    "departement": "Bouches-du-Rhône",
+    "codeDepartement": "13",
+    "prefecture": "Marseille",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Saint-Denis",
+    "departement": "La Réunion",
+    "codeDepartement": "974",
+    "prefecture": "Saint-Denis",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Clermont-Ferrand",
+    "departement": "Puy-de-Dôme",
+    "codeDepartement": "63",
+    "prefecture": "Clermont-Ferrand",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Le Mans",
+    "departement": "Sarthe",
+    "codeDepartement": "72",
+    "prefecture": "Le Mans",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Brest",
+    "departement": "Finistère",
+    "codeDepartement": "29",
+    "prefecture": "Quimper",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Tours",
+    "departement": "Indre-et-Loire",
+    "codeDepartement": "37",
+    "prefecture": "Tours",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Amiens",
+    "departement": "Somme",
+    "codeDepartement": "80",
+    "prefecture": "Amiens",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Annecy",
+    "departement": "Haute-Savoie",
+    "codeDepartement": "74",
+    "prefecture": "Annecy",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Limoges",
+    "departement": "Haute-Vienne",
+    "codeDepartement": "87",
+    "prefecture": "Limoges",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  },
+  {
+    "ville": "Perpignan",
+    "departement": "Pyrénées-Orientales",
+    "codeDepartement": "66",
+    "prefecture": "Perpignan",
+    "adressePrefecture": "",
+    "emailPrefecture": "",
+    "telephonePrefecture": "",
+    "sourceOfficielle": ""
+  }
+]

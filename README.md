@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Application de préparation des déclarations de manifestations
 
-## Getting Started
+Application web statique, sans Next.js, sans installation et sans serveur. Elle fonctionne dans un navigateur moderne.
 
-First, run the development server:
+## Démarrage rapide
+1. Décompressez l’archive.
+2. Ouvrez `index.html` dans votre navigateur.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Si le navigateur bloque le chargement des fichiers JSON via `file://`, lancez un serveur local dans ce dossier :
+- Python : `python3 -m http.server 8000`
+- Puis ouvrez `http://localhost:8000`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Fichiers JSON
+- `association.json` : coordonnées de l’association préremplies.
+- `prefectures.json` : référentiel de 30 grandes villes et préfectures correspondantes. Les champs d’adresse, e-mail, téléphone et source officielle sont laissés vides volontairement pour ne pas inventer de coordonnées.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Complétez `association.json` avec les coordonnées réelles du représentant légal, le téléphone et l’e-mail de l’association.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Fonctionnalités
+- Formulaire guidé avec champs obligatoires vérifiés.
+- Génération d’une lettre à partir des informations saisies.
+- Prévisualisation.
+- Impression ou « Enregistrer au format PDF » depuis la fenêtre d’impression du navigateur.
+- Export TXT et JSON d’une déclaration.
+- Brouillons/historique conservés dans `localStorage`.
+- Import/export JSON du référentiel et des brouillons.
+- Aucune transmission automatique à une mairie ou préfecture.
 
-## Learn More
+## Données et confidentialité
+Les déclarations sont conservées dans le stockage local du navigateur sur l’appareil courant. Elles ne sont pas envoyées vers un serveur et ne se synchronisent pas entre appareils. Exportez une sauvegarde JSON régulièrement.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Limites
+Le référentiel couvre 30 villes seulement, et la commune de rassemblement n’est pas toujours la ville où se trouve la préfecture. Vérifiez l’autorité compétente, les délais de déclaration et les consignes locales auprès des sources officielles. Le document généré est préparatoire et ne vaut pas dépôt ni autorisation.
